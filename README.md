@@ -73,7 +73,8 @@ O ciclo de vida do projeto documenta os desafios enfrentados e as atualizações
 ### Fase Atual: Início do Projeto
  - Estruturação do backend em JavaSE-22.
  - Configuração inicial do banco de dados MySQL.
- - Estabelecendo a extrutura de conexão com o banco de dados, gerenciando conexões JDBC, carregando propriedades, e fechando recursos do banco de dados com segurança.
+ - Estabelecendo a estrutura de conexão com o banco de dados, gerenciando conexões JDBC, carregando propriedades, e fechando recursos do banco de dados com segurança.
 ### Atualizações Futuras
  - Melhorias planejadas:
+Integração com Spring boot. Melhora a segurança no acesso aos bancos de dados. Mudança para API JPA para maior persistência de banco de dados e melhora da performance. Otimização para grande volume de dados.
  - Desafios enfrentados:
